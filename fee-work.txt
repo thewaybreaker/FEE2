@@ -1,0 +1,23 @@
+FEE
+--------------------------------------------------------------------------------------
+CSS, JS, UI, UX, react, components, props, states, onclick, forms, onSubmit,  validation, button, links, router, multi page, nested routes, global states, redux, zustand, map, filter, function
+
+--------------------------------------------------------------------------------------
+
+Logic - importance in creating a website 
+
+UI - the face of idea
+-> ui of website is how the idea is perceived , even if your website offers great functionality
+but if ui is unusable the project will ultimately go downhill.
+
+UX - the quality of project
+-> if we only focus of aesthetic aspect of website , it will feel clunky and unintuitive , a good 
+ux design make using the website more intricate and easy to use.
+
+JS - the brain of website
+-> javascript provides us with functionality that html and css can't and allow us to take information
+,display chaining information, use api, dynamically change the structure of our website.
+
+CSS - decorator of website 
+-> we use css to design the aesthetic part of website and structure the elements in however the 
+way we want including the colours, themes of website accordingly.
